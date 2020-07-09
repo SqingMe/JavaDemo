@@ -1,4 +1,4 @@
-package com.corc;
+
 
 /**
  * 矩形类
